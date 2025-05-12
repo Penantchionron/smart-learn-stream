@@ -84,7 +84,8 @@ DB_PASSWORD=your_password // pas de mot de pas si c'est MySQL
 ```bash
 php artisan migrate --seed
 ```
-![demarrer le serveur](https://github.com/user-attachments/assets/f3f9918f-10c6-45fb-abf0-e20a6a7b1e3f)
+![demarrer le serveur](https://github.com/user-attachments/assets/dddcde7c-2f59-41e5-935c-bf3585f9f969)
+
 
 ### Lancer Vite (compiler le frontend) et ### Lancer le serveur de développement de l'application 
 
