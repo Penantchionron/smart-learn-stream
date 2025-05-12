@@ -100,11 +100,12 @@ php artisan serve
 5. tapper dans le navigateur : http://127.0.0.1:8000
 
 #### 🧑‍💼 Site Démo
-![Page d'accueil](https://github.com/user-attachments/assets/eed52604-9b8a-4c8d-b0c1-17e5ce074a34)
-![Dashoard](https://github.com/user-attachments/assets/f7a172c6-6c48-44a6-9552-c547e1397884)
-![mobile](https://github.com/user-attachments/assets/8f911b81-8e94-4219-8d57-e88df2e07c73)
-![lecture](https://github.com/user-attachments/assets/7464d2d6-7a9c-429e-8109-440d391e34db)
-![ThèmeN](https://github.com/user-attachments/assets/28a9500c-71f7-4044-8695-f9d2f2630b4a)
+![Page d'accueil](https://github.com/user-attachments/assets/f1a32184-1db3-455d-8a31-4d35f651146b)
+![Dashoard](https://github.com/user-attachments/assets/d7e802c0-ed48-41a4-88b8-982e975dbd3a)
+![mobile](https://github.com/user-attachments/assets/a9aaba4b-ebdb-451b-9824-4e1363c3adcc)
+![lecture](https://github.com/user-attachments/assets/4cb98831-5da0-418c-9b1a-39c4db2ded12)
+![ThèmeN](https://github.com/user-attachments/assets/cbe0674b-3ec7-4a6b-af6e-9bb531d7df7f)
+
 Lien pour tester ici 👉 bientot
 
 ##  Documentation technique 
